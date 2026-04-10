@@ -22,9 +22,22 @@ The main goal is to learn:
 
 ## 📁 Project Structure
 CodeAlpha-DockerWebServer/
+
+
+
+
 │── Dockerfile
+
+
+
 │── index.html
+
+
+
 │── README.md
+
+
+
 
 ---
 
